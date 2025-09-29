@@ -31,7 +31,7 @@ This security measure renders most publicly available PowerShell security tools 
 
 ---
 
-## Key Features (v4.1)
+## Key Features (v2.0)
 
 PThreatHunter v2.0 combines robust data collection with intelligent analysis, providing a comprehensive overview of system persistence.
 
